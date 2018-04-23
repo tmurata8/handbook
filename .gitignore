@@ -36,3 +36,10 @@
 ehthumbs.db
 Thumbs.db
 
+# project specific folders and files #
+######################################
+img-temp/
+include/
+media-temp/
+vendor/
+figures/
