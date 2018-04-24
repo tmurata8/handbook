@@ -156,316 +156,309 @@
           <div class="g-brd-bottom--md g-brd-secondary-light-v2 g-pb-30--md g-mb-30">
             <div class="row">
               <div class="col-6 col-md-3 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
-                <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">News</h3>
+                <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Relationships & Dating</h3>
 
-                <!-- News -->
-                <ul class="list-unstyled mb-0">
+                <!-- Relationships & Dating -->
+                <ul class="list-unstyled mb-20">
                   <li class="g-px-0 g-my-8">
                     <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">World</a>
+                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Dating Tips</a>
                   </li>
                   <li class="g-px-0 g-my-8">
                     <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">U.S.</a>
+                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Online Dating</a>
                   </li>
                   <li class="g-px-0 g-my-8">
                     <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Politics</a>
+                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Relationship Advice</a>
                   </li>
                   <li class="g-px-0 g-my-8">
                     <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Business</a>
+                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Ask a Woman</a>
                   </li>
                   <li class="g-px-0 g-my-8">
                     <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Economy</a>
-                  </li>
-                  <li class="g-px-0 g-my-8">
-                    <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Tech</a>
-                  </li>
-                  <li class="g-px-0 g-my-8">
-                    <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Science</a>
-                  </li>
-                  <li class="g-px-0 g-my-8">
-                    <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Health</a>
-                  </li>
-                  <li class="g-px-0 g-my-8">
-                    <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Sports</a>
-                  </li>
-                  <li class="g-px-0 g-my-8">
-                    <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Education</a>
+                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Sex</a>
                   </li>
                 </ul>
-                <!-- End News -->
+                <!-- End Relationships & Dating -->
+
+                  <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Money & Career</h3>
+
+                  <!-- Money & Career -->
+                  <ul class="list-unstyled mb-0">
+                    <li class="g-px-0 g-my-8">
+                      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Personal Finance</a>
+                    </li>
+                    <li class="g-px-0 g-my-8">
+                      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Career</a>
+                    </li>
+                    <li class="g-px-0 g-my-8">
+                      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Business & Technology</a>
+                    </li>
+                    <li class="g-px-0 g-my-8">
+                      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Real Estate</a>
+                    </li>
+                  </ul>
+                  <!-- End Money & Career  -->
               </div>
 
               <div class="col-6 col-md-3 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
                 <div class="g-pl-10--md">
-                  <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Opinion</h3>
+                  <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Health & Fitness</h3>
 
-                  <!-- Opinion -->
+                  <!-- Health & Fitness -->
+                  <ul class="list-unstyled mb-20">
+                    <li class="g-px-0 g-my-8">
+                      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Fitness</a>
+                    </li>
+                    <li class="g-px-0 g-my-8">
+                      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Nutrition</a>
+                    </li>
+                    <li class="g-px-0 g-my-8">
+                      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Wellness</a>
+                    </li>
+                    <li class="g-px-0 g-my-8">
+                      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Men's Health</a>
+                    </li>
+                  </ul>
+                  <!-- End Health & Fitness -->
+                </div>
+                <div class="g-pl-10--md">
+                  <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Lifestyle</h3>
+
+                  <!-- Lifestyle -->
                   <ul class="list-unstyled mb-0">
                     <li class="g-px-0 g-my-8">
                       <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Today's Opinion</a>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Travel & Leisure</a>
                     </li>
                     <li class="g-px-0 g-my-8">
                       <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Contributing Writers</a>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Home & Garden</a>
                     </li>
                     <li class="g-px-0 g-my-8">
                       <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Letters</a>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Food & Drink</a>
                     </li>
                     <li class="g-px-0 g-my-8">
                       <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Sunday Review</a>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Entertainment</a>
                     </li>
                     <li class="g-px-0 g-my-8">
                       <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Taking Note</a>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Science & Technology</a>
                     </li>
                     <li class="g-px-0 g-my-8">
                       <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Room for Debate</a>
-                    </li>
-                    <li class="g-px-0 g-my-8">
-                      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Op-Ed Columnists</a>
-                    </li>
-                    <li class="g-px-0 g-my-8">
-                      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Editorials</a>
-                    </li>
-                    <li class="g-px-0 g-my-8">
-                      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Op-Ed Contributors</a>
-                    </li>
-                    <li class="g-px-0 g-my-8">
-                      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Video: Opinion</a>
+                      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Cars</a>
                     </li>
                   </ul>
-                  <!-- End Opinion -->
+                  <!-- End Lifestyle -->
                 </div>
               </div>
 
-              <div class="col-md-6">
+<!--          <div class="col-md-6">
                 <div class="g-pl-10--md">
                   <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Magazines</h3>
 
-                  <!-- Carousel -->
-                  <div class="js-carousel g-mx-minus-5"
-                       data-infinite="true"
-                       data-slides-show="2"
-                       data-lazy-load="ondemand"
-                       data-arrows-classes="u-arrow-v1 g-pos-abs g-top-minus-35 g-width-30 g-height-30 g-color-secondary-dark-v1 g-color-primary--hover"
-                       data-arrow-left-classes="fa fa-angle-left g-right-30"
-                       data-arrow-right-classes="fa fa-angle-right g-right-0"
-                       data-responsive='[{
-                         "breakpoint": 1200,
-                         "settings": {
-                           "slidesToShow": 2
-                         }
-                       }, {
-                         "breakpoint": 992,
-                         "settings": {
-                           "slidesToShow": 1
-                         }
-                       }, {
-                         "breakpoint": 768,
-                         "settings": {
-                           "slidesToShow": 2
-                         }
-                       }, {
-                         "breakpoint": 480,
-                         "settings": {
-                           "slidesToShow": 1
-                         }
-                       }]'>
-                    <div class="js-slide g-px-5">
-                      <!-- Magazines -->
-                      <figure class="u-block-hover g-pos-rel">
-                        <img class="img-fluid u-block-hover__main--zoom-v1 g-transition-0_5" src="img-temp/350x400/img3.jpg" alt="Image Description">
-                        <figcaption class="g-color-white">
-                          <div class="g-pos-abs g-top-0 g-left-0 g-pa-20">
-                            <h2 class="h4 g-color-white">Singer<br>of the Year</h2>
-                          </div>
-                          <div class="w-50 g-pos-abs g-bottom-0 g-left-0 g-pa-20">
-                            <span class="d-block h6 g-color-white">Manchester Evening</span>
-                          </div>
-                          <div class="w-50 text-right g-pos-abs g-bottom-0 g-right-0 g-pa-20">
-                            <span class="d-block h6 g-color-white">2017</span>
-                          </div>
-                          <a class="u-link-v2" href="bm-classic-single-2.html"></a>
-                        </figcaption>
-                      </figure>
-                      <!-- End Magazines -->
-                    </div>
 
-                    <div class="js-slide g-px-5">
-                      <!-- Magazines -->
-                      <figure class="u-block-hover g-pos-rel">
-                        <img class="img-fluid u-block-hover__main--zoom-v1 g-transition-0_5" src="img-temp/350x400/img2.jpg" alt="Image Description">
-                        <figcaption class="g-color-white">
-                          <div class="g-pos-abs g-top-0 g-left-0 g-pa-20">
-                            <h2 class="h4 g-color-white">Trip to<br>Wonderland</h2>
-                          </div>
-                          <div class="w-50 g-pos-abs g-bottom-0 g-left-0 g-pa-20">
-                            <span class="d-block h6 g-color-white">The New York Times</span>
-                          </div>
-                          <div class="w-50 text-right g-pos-abs g-bottom-0 g-right-0 g-pa-20">
-                            <span class="d-block h6 g-color-white">2017</span>
-                          </div>
-                          <a class="u-link-v2" href="bm-classic-single-2.html"></a>
-                        </figcaption>
-                      </figure>
-                      <!-- End Magazines -->
-                    </div>
-
-                    <div class="js-slide g-px-5">
-                      <!-- Magazines -->
-                      <figure class="u-block-hover g-pos-rel">
-                        <img class="img-fluid u-block-hover__main--zoom-v1 g-transition-0_5" src="img-temp/350x400/img1.jpg" alt="Image Description">
-                        <figcaption class="g-color-white">
-                          <div class="g-pos-abs g-top-0 g-left-0 g-pa-20">
-                            <h2 class="h4 g-color-white">Science<br>in Yellow</h2>
-                          </div>
-                          <div class="w-50 g-pos-abs g-bottom-0 g-left-0 g-pa-20">
-                            <span class="d-block h6 g-color-white">Sunday News</span>
-                          </div>
-                          <div class="w-50 text-right g-pos-abs g-bottom-0 g-right-0 g-pa-20">
-                            <span class="d-block h6 g-color-white">2017</span>
-                          </div>
-                          <a class="u-link-v2" href="bm-classic-single-2.html"></a>
-                        </figcaption>
-                      </figure>
-                      <!-- End Magazines -->
-                    </div>
-
-                    <div class="js-slide g-px-5">
-                      <!-- Magazines -->
-                      <figure class="u-block-hover g-pos-rel">
-                        <img class="img-fluid u-block-hover__main--zoom-v1 g-transition-0_5" src="img-temp/350x400/img4.jpg" alt="Image Description">
-                        <figcaption class="g-color-white">
-                          <div class="g-pos-abs g-top-0 g-left-0 g-pa-20">
-                            <h2 class="h4 g-color-white">Magnificent<br>Woman</h2>
-                          </div>
-                          <div class="w-50 g-pos-abs g-bottom-0 g-left-0 g-pa-20">
-                            <span class="d-block h6 g-color-white">The New York Times</span>
-                          </div>
-                          <div class="w-50 text-right g-pos-abs g-bottom-0 g-right-0 g-pa-20">
-                            <span class="d-block h6 g-color-white">2017</span>
-                          </div>
-                          <a class="u-link-v2" href="bm-classic-single-2.html"></a>
-                        </figcaption>
-                      </figure>
-                      <!-- End Magazines -->
-                    </div>
-                  </div>
-                  <!-- End Carousel -->
-                </div>
+                 </div>
               </div>
+-->
+
+<div class="col-6 col-md-3 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
+  <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Style & Grooming</h3>
+
+  <!-- Style & Grooming -->
+  <ul class="list-unstyled mb-20">
+    <li class="g-px-0 g-my-8">
+      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Fashion</a>
+    </li>
+    <li class="g-px-0 g-my-8">
+      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Accessories</a>
+    </li>
+    <li class="g-px-0 g-my-8">
+      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Hair & Face</a>
+    </li>
+    <li class="g-px-0 g-my-8">
+      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Body</a>
+    </li>
+  </ul>
+  <!-- Style & Grooming  -->
+
+
+
+  <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">More</h3>
+
+  <!-- More -->
+  <ul class="col list-unstyled mb-0">
+    <li class="g-px-0 g-my-8">
+      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">News</a>
+    </li>
+    <li class="g-px-0 g-my-8">
+      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Motivation</a>
+    </li>
+    <li class="g-px-0 g-my-8">
+      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Humor</a>
+    </li>
+    <li class="g-px-0 g-my-8">
+      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Life Hacks & Tips</a>
+    </li>
+    <li class="g-px-0 g-my-8">
+      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Skills</a>
+    </li>
+    <li class="g-px-0 g-my-8">
+      <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+      <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Other</a>
+    </li>
+  </ul>
+  <!-- End More -->
+
+</div>
+
+<div class="col-6 col-md-3 g-mb-30 g-mb-0--md">
+  <div class="g-pl-10--md">
+    <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Company</h3>
+
+    <!-- Style & Grooming -->
+    <ul class="list-unstyled mb-20">
+      <li class="g-px-0 g-my-8">
+        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">About Us</a>
+      </li>
+      <li class="g-px-0 g-my-8">
+        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Our Team</a>
+      </li>
+      <li class="g-px-0 g-my-8">
+        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Careers</a>
+      </li>
+      <li class="g-px-0 g-my-8">
+        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Press</a>
+      </li>
+      <li class="g-px-0 g-my-8">
+        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Blog</a>
+      </li>
+      <li class="g-px-0 g-my-8">
+        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Contact Us</a>
+      </li>
+    </ul>
+    <!-- Style & Grooming  -->
+    <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Resources</h3>
+
+    <!-- Relationships & Dating -->
+    <ul class="list-unstyled mb-0">
+      <li class="g-px-0 g-my-8">
+        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Help Center</a>
+      </li>
+      <li class="g-px-0 g-my-8">
+        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Affiliates</a>
+      </li>
+      <li class="g-px-0 g-my-8">
+        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Advertising</a>
+      </li>
+      <li class="g-px-0 g-my-8">
+        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
+        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">FAQs</a>
+      </li>
+    </ul>
+
+  </div>
+
+</div>
+
+
 
               <div class="w-100 g-brd-bottom--md g-brd-secondary-light-v2 g-pb-40--md g-mb-40"></div>
 
               <div class="col-sm-4 col-md-3 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
-                <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Arts</h3>
+                <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Lifestyle</h3>
 
-                <!-- Arts -->
+                <!-- Style & Grooming -->
                 <ul class="list-unstyled mb-0">
                   <li class="g-px-0 g-my-8">
                     <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Movies</a>
+                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Travel & Leisure</a>
                   </li>
                   <li class="g-px-0 g-my-8">
                     <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Sculptures</a>
+                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Home & Garden</a>
                   </li>
                   <li class="g-px-0 g-my-8">
                     <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Books</a>
+                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Food & Drink</a>
                   </li>
                   <li class="g-px-0 g-my-8">
                     <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Dance</a>
+                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Entertainment</a>
                   </li>
                   <li class="g-px-0 g-my-8">
                     <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Television</a>
+                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Science & Technology</a>
                   </li>
                   <li class="g-px-0 g-my-8">
                     <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Video: Arts</a>
+                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Cars</a>
                   </li>
                 </ul>
-                <!-- End Arts -->
+                <!-- End Style & Grooming -->
               </div>
 
               <div class="col-sm-8 col-md-6 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
                 <div class="g-pl-10--md">
-                  <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-2">Listing &amp; More</h3>
+                  <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-2">More</h3>
 
                   <div class="row">
                     <!-- Listing & More -->
                     <ul class="col list-unstyled mb-0">
                       <li class="g-px-0 g-my-8">
                         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Reader Center</a>
+                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">News</a>
                       </li>
                       <li class="g-px-0 g-my-8">
                         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Classifieds</a>
+                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Motivation</a>
                       </li>
                       <li class="g-px-0 g-my-8">
                         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Tools &amp; Services</a>
+                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Humor</a>
                       </li>
                       <li class="g-px-0 g-my-8">
                         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Unify Topics</a>
+                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Life Hacks & Tips</a>
                       </li>
                       <li class="g-px-0 g-my-8">
                         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Events Guide</a>
+                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Skills</a>
                       </li>
                       <li class="g-px-0 g-my-8">
                         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Blogs</a>
-                      </li>
-                    </ul>
-                    <!-- End Listing & More -->
-
-                    <!-- Listing & More -->
-                    <ul class="col list-unstyled mb-0">
-                      <li class="g-px-0 g-my-8">
-                        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Multimedia</a>
-                      </li>
-                      <li class="g-px-0 g-my-8">
-                        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Photography</a>
-                      </li>
-                      <li class="g-px-0 g-my-8">
-                        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Music</a>
-                      </li>
-                      <li class="g-px-0 g-my-8">
-                        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Video</a>
-                      </li>
-                      <li class="g-px-0 g-my-8">
-                        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Unify Store</a>
-                      </li>
-                      <li class="g-px-0 g-my-8">
-                        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Unify Journeys</a>
+                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Other</a>
                       </li>
                     </ul>
                     <!-- End Listing & More -->
