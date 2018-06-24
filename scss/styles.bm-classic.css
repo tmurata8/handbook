@@ -4,7 +4,7 @@ Error: File to import not found or unreadable: ../../../../assets/include/scss/u
          /Applications/Adobe Dreamweaver CC 2018/Configuration/SassFrameworks/bourbon
          /Applications/Adobe Dreamweaver CC 2018/Configuration/SassFrameworks/neat
          /Applications/Adobe Dreamweaver CC 2018/Configuration/SassFrameworks/base
-        on line 6 of /Applications/XAMPP/xamppfiles/htdocs/handbook/scss/styles.bm-classic.scss
+        on line 6 of /Users/murata.tommy/Sites/handbook/scss/styles.bm-classic.scss
 
 1: //
 2: // Variables and Mixins
@@ -19,7 +19,7 @@ Error: File to import not found or unreadable: ../../../../assets/include/scss/u
 11: .h1, .h2, .h3, .h4, .h5, .h6, .h7,
 
 Backtrace:
-/Applications/XAMPP/xamppfiles/htdocs/handbook/scss/styles.bm-classic.scss:6
+/Users/murata.tommy/Sites/handbook/scss/styles.bm-classic.scss:6
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/tree/import_node.rb:67:in `rescue in import'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/tree/import_node.rb:45:in `import'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/tree/import_node.rb:28:in `imported_file'
@@ -56,4 +56,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: ../../../../assets/include/scss/unify.\A        Load paths:\A          /Applications/Adobe Dreamweaver CC 2018/Configuration/SassFrameworks/bourbon\A          /Applications/Adobe Dreamweaver CC 2018/Configuration/SassFrameworks/neat\A          /Applications/Adobe Dreamweaver CC 2018/Configuration/SassFrameworks/base\A         on line 6 of /Applications/XAMPP/xamppfiles/htdocs/handbook/scss/styles.bm-classic.scss\A \A 1: //\A 2: // Variables and Mixins\A 3: //\A 4: \A 5: @import \"variables.bm-classic\";\A 6: @import \"../../../../assets/include/scss/unify\";\A 7: \A 8: /*------------------------------------\A 9:   Headings\A 10: ------------------------------------*/\A 11: .h1, .h2, .h3, .h4, .h5, .h6, .h7,"; }
+  content: "Error: File to import not found or unreadable: ../../../../assets/include/scss/unify.\A        Load paths:\A          /Applications/Adobe Dreamweaver CC 2018/Configuration/SassFrameworks/bourbon\A          /Applications/Adobe Dreamweaver CC 2018/Configuration/SassFrameworks/neat\A          /Applications/Adobe Dreamweaver CC 2018/Configuration/SassFrameworks/base\A         on line 6 of /Users/murata.tommy/Sites/handbook/scss/styles.bm-classic.scss\A \A 1: //\A 2: // Variables and Mixins\A 3: //\A 4: \A 5: @import \"variables.bm-classic\";\A 6: @import \"../../../../assets/include/scss/unify\";\A 7: \A 8: /*------------------------------------\A 9:   Headings\A 10: ------------------------------------*/\A 11: .h1, .h2, .h3, .h4, .h5, .h6, .h7,"; }

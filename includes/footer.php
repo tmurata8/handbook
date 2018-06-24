@@ -39,7 +39,7 @@
                 <!-- Article -->
                 <article class="media g-bg-white g-pa-10">
                   <figure class="d-flex g-width-70 g-height-70 g-pos-rel mr-3">
-                    <img class="img-fluid" src="img-temp/230x230/img10.jpg" alt="Image Description">
+                    <img class="img-fluid" src="img-temp/230x230/img8.jpg" alt="Image Description">
 
                     <figcaption class="g-absolute-centered">
                       <a class="js-fancybox d-block" href="javascript:;"
@@ -65,7 +65,7 @@
                 <!-- Article -->
                 <article class="media g-bg-white g-pa-10">
                   <figure class="d-flex g-width-70 g-height-70 mr-3">
-                    <img class="img-fluid" src="img-temp/230x230/img5.jpg" alt="Image Description">
+                    <img class="img-fluid" src="img-temp/230x230/img8.jpg" alt="Image Description">
                   </figure>
 
                   <div class="media-body">
@@ -136,7 +136,7 @@
                 <!-- Article -->
                 <article class="media g-bg-white g-pa-10">
                   <figure class="d-flex g-width-70 g-height-70 mr-3">
-                    <img class="img-fluid" src="img-temp/230x230/img9.jpg" alt="Image Description">
+                    <img class="img-fluid" src="img-temp/230x230/img8.jpg" alt="Image Description">
                   </figure>
 
                   <div class="media-body">
@@ -155,7 +155,7 @@
           <!-- Footer - Content -->
           <div class="g-brd-bottom--md g-brd-secondary-light-v2 g-pb-30--md g-mb-30">
             <div class="row">
-              <div class="col-6 col-md-3 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
+              <div class="col-6 col-md-4 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
                 <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Relationships & Dating</h3>
 
                 <!-- Relationships & Dating -->
@@ -207,7 +207,7 @@
                   <!-- End Money & Career  -->
               </div>
 
-              <div class="col-6 col-md-3 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
+              <div class="col-6 col-md-4 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
                 <div class="g-pl-10--md">
                   <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Health & Fitness</h3>
 
@@ -275,7 +275,7 @@
               </div>
 -->
 
-<div class="col-6 col-md-3 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
+<div class="col-6 col-md-4 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
   <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Style & Grooming</h3>
 
   <!-- Style & Grooming -->
@@ -297,10 +297,7 @@
       <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Body</a>
     </li>
   </ul>
-  <!-- Style & Grooming  -->
-
-
-
+  <!-- More  -->
   <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">More</h3>
 
   <!-- More -->
@@ -331,14 +328,13 @@
     </li>
   </ul>
   <!-- End More -->
-
 </div>
 
-<div class="col-6 col-md-3 g-mb-30 g-mb-0--md">
-  <div class="g-pl-10--md">
+<div class="w-100 g-brd-bottom--md g-brd-secondary-light-v2 g-pb-40--md g-mb-40"></div>
+<div class="col-6 col-md-4 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
     <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Company</h3>
 
-    <!-- Style & Grooming -->
+    <!-- Company -->
     <ul class="list-unstyled mb-20">
       <li class="g-px-0 g-my-8">
         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
@@ -364,11 +360,13 @@
         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
         <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Contact Us</a>
       </li>
-    </ul>
-    <!-- Style & Grooming  -->
+    </ul>			
+	</div>	
+<div class="col-6 col-md-4 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">				
+    <!-- Resources  -->
     <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Resources</h3>
 
-    <!-- Relationships & Dating -->
+    <!-- Resources -->
     <ul class="list-unstyled mb-0">
       <li class="g-px-0 g-my-8">
         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
@@ -386,88 +384,9 @@
         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
         <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">FAQs</a>
       </li>
-    </ul>
-
-  </div>
-
-</div>
-
-
-
-              <div class="w-100 g-brd-bottom--md g-brd-secondary-light-v2 g-pb-40--md g-mb-40"></div>
-
-              <div class="col-sm-4 col-md-3 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
-                <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Lifestyle</h3>
-
-                <!-- Style & Grooming -->
-                <ul class="list-unstyled mb-0">
-                  <li class="g-px-0 g-my-8">
-                    <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Travel & Leisure</a>
-                  </li>
-                  <li class="g-px-0 g-my-8">
-                    <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Home & Garden</a>
-                  </li>
-                  <li class="g-px-0 g-my-8">
-                    <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Food & Drink</a>
-                  </li>
-                  <li class="g-px-0 g-my-8">
-                    <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Entertainment</a>
-                  </li>
-                  <li class="g-px-0 g-my-8">
-                    <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Science & Technology</a>
-                  </li>
-                  <li class="g-px-0 g-my-8">
-                    <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                    <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Cars</a>
-                  </li>
-                </ul>
-                <!-- End Style & Grooming -->
-              </div>
-
-              <div class="col-sm-8 col-md-6 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
-                <div class="g-pl-10--md">
-                  <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-2">More</h3>
-
-                  <div class="row">
-                    <!-- Listing & More -->
-                    <ul class="col list-unstyled mb-0">
-                      <li class="g-px-0 g-my-8">
-                        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">News</a>
-                      </li>
-                      <li class="g-px-0 g-my-8">
-                        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Motivation</a>
-                      </li>
-                      <li class="g-px-0 g-my-8">
-                        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Humor</a>
-                      </li>
-                      <li class="g-px-0 g-my-8">
-                        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Life Hacks & Tips</a>
-                      </li>
-                      <li class="g-px-0 g-my-8">
-                        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Skills</a>
-                      </li>
-                      <li class="g-px-0 g-my-8">
-                        <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Other</a>
-                      </li>
-                    </ul>
-                    <!-- End Listing & More -->
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md-3">
-                <div class="g-pl-10--md">
+    </ul>				
+	</div>
+<div class="col-6 col-md-4 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
                   <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Subscribe</h3>
 
                   <!-- Subscribe -->
@@ -610,7 +529,7 @@
           <div class="row align-items-center">
             <div class="col-md-2 g-brd-right--md g-brd-secondary-light-v2 g-mb-30">
               <!-- Copyright -->
-              <p class="g-color-secondary-light-v1 g-font-size-12 mb-0">&copy; 2018 Htmlstream.</p>
+              <p class="g-color-secondary-light-v1 g-font-size-12 mb-0">&copy; 2018 Handbook of Man</p>
               <!-- End Copyright -->
             </div>
 
